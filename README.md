@@ -1,1 +1,10 @@
 # onemli-isler
+├── index.html
+├── styles.css
+├── script.js
+└── .github/
+    └── agents/
+        ├── creative-director.agent.md
+        ├── copywriter.agent.md
+        ├── audience-psychologist.agent.md
+        └── campaign-strategist.agent.md
